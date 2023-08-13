@@ -1,2 +1,2 @@
-# clock
-I have designed clock using Html5,CSS
+# Analog-clock
+I have designed  Analog clock using Html5,CSS
